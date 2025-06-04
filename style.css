@@ -1,0 +1,24 @@
+html {
+  background-color: #131d4f;
+  color: #efe4d2;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+}
+.player {
+  text-align: center;
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  align-items: center;
+  margin: 100px;
+}
