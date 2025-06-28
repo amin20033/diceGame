@@ -20,5 +20,16 @@ h1 {
   gap: 40px;
   justify-content: center;
   align-items: center;
-  margin: 100px;
+  margin: 10%;
+}
+footer {
+  margin-top: 110px;
+}
+button {
+  padding: 5px;
+}
+@media (max-width: 900px) {
+  footer {
+    margin-top: 200px;
+  }
 }
